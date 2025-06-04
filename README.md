@@ -15,7 +15,7 @@ A minimal, opinionated starter kit for building backend apps with Node.js and Ty
 
 ```bash
 git clone https://github.com/mlorenzoni25/node-ts-boilerplate.git
-cd node-ts-starter
+cd node-ts-boilerplate
 npm install
 npm run dev
 ```
